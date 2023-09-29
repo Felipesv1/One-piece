@@ -39,7 +39,7 @@
         height: 75px;
     }
     .content{
-        top: -20%;
+        top: -15%;
         max-width: 100vw;
         padding: 30px;
     }
@@ -48,6 +48,6 @@
     }
     .buttons{
         padding: 20px;
-        top: -10%;
+        top: -5%;
     }
 }
